@@ -26,7 +26,7 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
-Package: BundleIDsXI_1.1.0-1_iphoneos-arm
+Package: com.wavelink.bundleidsxi
 Version: 1.1.0-1
 Section: Tweaks
 Maintainer: TD <wavelinkstudios@gmail.com>
