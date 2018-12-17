@@ -1,6 +1,9 @@
 # Wavelink Studios Cydia Repo
 This is an unfinished Cydia repo for all of the jailbreak based projects created by members of Wavelink Studios. This is based initially on Reposi3 supermamon and will eventually be a full fledged repo built (hopefully) entirely from scratch in the future. For now, I have just created this for testing purposes. The below is the readme from Reposi3's github page.
 
+# Things Done Here
+Updated some of the main index file to feature BIDsXI on the home web page as well as make it about Wavelink Studios (WLS). Updated the release file for use with WLS. started adding some of the BIDsXI depiction stuff but it isnt complete. BIDsXI changelog has been fully updated. Description for BIDsXI has been started but not finished. 
+
 # Reposi3
 A Cydia repository template. This template contains sample on how you can easily make depiction pages without replicating your html pages. The pages are styled using [Bootsrap](http://getbootstrap.com/) which is really easy to use. You can see how it looks like by visiting [this sample repo](https://supermamon.github.io/Reposi3/) on your desktop or mobile phone.
 
