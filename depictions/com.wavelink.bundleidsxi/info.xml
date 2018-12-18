@@ -11,18 +11,10 @@
 		<package>mobilesubstrate</package>
 		<package>AppList</package>
 	</dependencies>
-	<shortDescription> TD’s updated fork of BundleIDs for iOS 11+ devices.</shortDescription>
+	<shortDescription>TD’s updated fork of BundleIDs for iOS 11+ devices.</shortDescription>
 	<descriptionlist>
-		<description>This app allows you to see the Bundle ID's of all the applications installed on your device. This app was originally by @NoahSaso. Sadly it appears that he has since gone inactive around a year ago and the app was only ever compiled for 32-bit devices. I figured this would be a relatively easy first attempt at jailbreak projects seeing as I have never really worked in this scene but have a little bit of coding knowledge from other types of small personal projects.  An absolutely HUGE thanks to @Skittyblock and @TheTomMetzger for all of their help in getting this update working and tested. I hope you all enjoy it even though it is a relatively small project. And finally a huge thanks to @xanDesign_ for making the amazing new icon. If you would like to stay up to date with future updates to this package or possible new packages from me, please leave a follow over on my Twitter @TD_Advocate. Staying true to the original project, I have made my update open source for all to take a look at and even help me learn by helping me update the app further. You can check out my fork of the app at this link here. I have listed all of the changes that have been made from Noah's last build of the app below to show what all is new.
-</description>
-		<description>Updates from Noah's last build:
--Support for all iOS 11-11.4 beta 3 devices and firmwares
--Removed all new iOS 11 "applications" that are never actually seen by the user (let me know if I missed any or hid ones that I should not have)
--Full iPhone X support
--Changes to alert views
--New "Copy All" feature
--Brand new icon
--Minor code changes to remove deprecated code </description>
+		<description>This app allows you to see the Bundle ID's of all the applications installed on your device. This app was originally by @NoahSaso. Sadly it appears that he has since gone inactive around a year ago and the app was only ever compiled for 32-bit devices. I figured this would be a relatively easy first attempt at jailbreak projects seeing as I have never really worked in this scene but have a little bit of coding knowledge from other types of small personal projects.  An absolutely HUGE thanks to @Skittyblock and @TheTomMetzger for all of their help in getting this update working and tested. I hope you all enjoy it even though it is a relatively small project. And finally a huge thanks to @xerusdesign for making the amazing new icon. If you would like to stay up to date with future updates to this package or possible new packages from me, please leave a follow over on my Twitter @TD_Advocate. Staying true to the original project, I have made my update open source for all to take a look at and even help me learn by helping me update the app further. You can check out my fork of the app at this link here. I have listed all of the changes that have been made from Noah's last build of the app below to show what all is new.
+		</description>
 		<description><![CDATA[
 		Updates from Noah's last build:<br/> 
 		-Support for all iOS 11-11.4 beta 3 devices and firmwares<br/>
@@ -51,7 +43,7 @@
 	</screenshots>
 	<changelog>
 		<change>Initial rerelease</change>
-		<change>Brand new app icon by @xanDesign_</change>
+		<change>Brand new app icon by @xerusdesign</change>
 		<change>Updated alert views</change>
 		<change>Brand new “Copy All” feature</change>
 		<change>Code modernisations</change>
