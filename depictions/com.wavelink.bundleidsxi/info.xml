@@ -24,23 +24,29 @@
 -Brand new icon
 -Minor code changes to remove deprecated code </description>
 		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
+		Updates from Noah's last build:<br/> 
+		-Support for all iOS 11-11.4 beta 3 devices and firmwares<br/>
+		-Removed all new iOS 11 "applications" that are never actually seen by the user (let me know if I missed any or hid ones that I should not have)<br/>
+		-Full iPhone X support<br/>
+		-Changes to alert views<br/>
+		-New "Copy All" feature<br/>
+		-Brand new icon<br/>
+		-Minor code changes to remove deprecated code<br/>
 		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description>Real screenshots will be added asap!</description>
-			<image>shot1.jpg</image>
+			<image>shot1.JPG</image>
 		</screenshot>		
 		<screenshot>
 			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>shot2.jpg</image>
+			<image>shot2.JPG</image>
 		</screenshot>		
 		<screenshot>
 			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>shot3.jpg</image>
+			<image>shot3.JPG</image>
 		</screenshot>
 	</screenshots>
 	<changelog>
@@ -55,6 +61,11 @@
 			<name>/r/jailbreak</name>
 			<url>https://www.reddit.com/r/jailbreak</url>
 			<iconclass>fa fa-reddit</iconclass>
+		</link>
+		<link>
+			<name>Source Code</name>
+			<url>https://github.com/tdadvocate/BundleIDsXI</url>
+			<iconclass>fa fa-github</iconclass>
 		</link>
 	</links>
 </package>
