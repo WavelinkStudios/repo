@@ -85,8 +85,8 @@ body {
 }
 .ios-tableview .icon-img {
   display: inline-block;
-  width: 7%;
-  height: 7%;
+  width: 30px;
+  height: 30px;
   padding-left: 15px;
   margin-top: auto;
   margin-bottom: auto;
