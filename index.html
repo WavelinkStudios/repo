@@ -1,55 +1,56 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <title>Wavelink Studios</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-</head>
-<body>
-
-<div class="container">
-	<h1><img src="CydiaIcon.png"> Wavelink Studios Public Repo</h1>
-</div>
-
-<div class="container">
-	<div class="well">
-		<p>The official public cydia repo for Wavelink Studios.</p>
-		<a class="btn btn-sm btn-default" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://wavelinkstudios.github.io/repo/">Add to Cydia</a>
-	</div>
-</div>
-
-<div class="container">
-  <h3 id="wells" class="page-header">Featured Packages</h3>
-</div>
-
-<div class="container">
-	<div class="panel panel-default">
-	  <div class="panel-heading">Old Package</div>
-	  <div class="panel-body">
-		This is a sample package with minimal information.
-		It also simulates an old package that's incompatible only with iOS lower than 7.0.<br /><br />
-		<a class="btn btn-xs btn-default" href="depictions/?p=com.supermamon.oldpackage">More info</a>
-	  </div>
-	</div>
-
-	<div class="panel panel-default">
-	  <div class="panel-heading">New Package</div>
-	  <div class="panel-body">
-		This is a sample package with lots of information.<br /><br />
-		<a class="btn btn-xs btn-default" href="depictions/?p=com.supermamon.newpackage">More info</a>
-	  </div>
-	</div>
-	
-	<div class="panel panel-default">
-	  <div class="panel-heading">BundleIDsXI</div>
-	  <div class="panel-body">
-		TD’s updated fork of BundleIDs for iOS 11+ devices.<br /><br />
-		<a class="btn btn-xs btn-default" href="depictions/?p= com.wavelink.bundleidsxi">More info</a>
-	  </div>
-	</div>
-</div>
-
-</body>
+  <head>
+    <title>Wavelink Studios</title>
+    <meta charset="utf-8">
+    <meta name='viewport' content='initial-scale=1, viewport-fit=cover'>
+    <link rel="stylesheet" href="css/iOSStyles.css">
+  </head>
+  <body>
+    <!— Top navbar —>
+    <div class="navbar">
+      <div class="title" on-click="location.reload();">Wavelink Studios</div>
+    </div>
+    <!— Add to Cydia tableview —>
+    <div class="ios-tableview">
+      <div class="cell-line">
+        <p> Welcome to the official Wavelink Studios public Cydia repo. You will find all of the Cydia packages for Wavelink Studios here. You can even add the repo straight to Cydia with the button below. Even if your device isn’t jailbroken you can see all the packages below as well as see what new packages and updates are happening. Featured packages are listed on the home page and all packages can be seen underneath them on their own page. Thank you for checking out our repo and packages.
+        </p>
+      </div>
+      <div class="cell">
+        <p><a class="ios-link" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://wavelinkstudios.github.io/repo/">Add to Cydia</a>
+        </p>
+      </div>
+    </div>
+    <!— Featured Packages tableview —>
+    <div class="label">Featured Packages</div>
+    <div class="ios-tableview">
+      <div class="cell-line">
+        <img src="img/bidsxi.jpg" class="icon-img" style="border-top-left-radius: 40% !important;">
+        <p><a class="ios-link-table" href="depictions/bidsxi/Index.html">BundleIDsXI</a></p>
+        <p class="table-arrow">></p>
+      </div>
+      <div class="cell-line">
+        <img src="img/tempPackIcon.jpg" class="icon-img">
+        <p><a class="ios-link-table" href="depictions/comingsoon/Index.html">Coming Soon</a></p>
+        <p class="table-arrow">></p>
+      </div>
+      <div class="cell">
+        <p><a class="ios-link-table" href="AllPackages.html">All Packages</a></p>
+        <p class="table-arrow">></p>
+      </div>
+    </div>
+    <!— External links tableviews —>
+    <div class="label">Links</div>
+    <div class="ios-tableview">
+      <div class="cell-line">
+        <p><a class="ios-link-table external" href="https://www.twitter.com/wavelinkstudios">Wavelink Studios Twitter</a></p>
+        <p class="table-arrow">></p>
+      </div>
+      <div class="cell">
+        <p><a class="ios-link-table external" href="https://github.com/tdadvocate">TD Advocate Github</a></p>
+        <p class="table-arrow">></p>
+      </div>
+    </div>
+  </body>
 </html>
