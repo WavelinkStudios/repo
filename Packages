@@ -13,5 +13,5 @@ SHA256: 7203adec1f97cea1cef59e85164b597a63ef3cc5357b80a253f851ddcfdd8504
 Section: Utilities
 Description: App to see installed app bundle IDs.
 Author: TD
-Depiction: https://wavelinkstudios.github.io/repo/depictions/bidsxi/Index.html
+Depiction: https://wavelinkstudios.github.io/repo/depictions/bidsxi/Depiction.html
 Name: BundleIDsXI
