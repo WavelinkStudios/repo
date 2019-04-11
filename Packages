@@ -16,3 +16,20 @@ Author: TD
 Depiction: https://wavelinkstudios.github.io/repo/depictions/bidsxi/Depiction.html
 Name: BundleIDsXI
 
+Package: com.wavelink.flatfolder
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: TD
+Installed-Size: 320
+Depends: mobilesubstrate, PreferenceLoader
+Filename: ./debs/com.wavelink.flatfolder_0.0.1_iphoneos-arm.deb
+Size: 24442
+MD5sum: 4065ca972ce0049a07fa7e021cdea14d
+SHA1: cc96022d66ef80ba4a391c0ae8e22695f70592ff
+SHA256: 5945f2dd534a8b162e5e6e93aee5c747ab6ee0987e869b1cd36d973f891707c3
+Section: Tweaks
+Description: Flatten out them folders!
+Author: TD
+Depiction: https://wavelinkstudios.github.io/repo/depictions/flatfolder/Depiction.html
+Name: FlatFolder
+
